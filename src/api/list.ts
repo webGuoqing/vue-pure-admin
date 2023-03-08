@@ -4,6 +4,7 @@ type Result = {
   success: boolean;
   data?: {
     /** 列表数据 */
+    // list
     list: Array<any>;
   };
 };
